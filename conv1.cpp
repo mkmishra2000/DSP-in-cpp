@@ -6,8 +6,6 @@
 using namespace std;
 
 
-
-
 // Function for printing the vector on the console output.
 void PrintVectorDouble(vector<double> vectr)
 {

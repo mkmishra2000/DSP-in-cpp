@@ -31,6 +31,7 @@ void errorMSG(){
     cout<<endl;
 }
 
+
 // Function for printing the matrix on console.
 void PrintMat(vector<vector<double> > & MAT)
 {
@@ -105,7 +106,6 @@ vector<vector<double> >MatrixMulti(vector< vector<double> > &MAT1, vector< vecto
 
     return resltantMAT;
 }
-
 
 // Function to fix the issue of vector and matrixes
 // Input is the vector signal 
